@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/proalgor/static/css/main.a8594ea9.chunk.css",
+    "main.js": "/proalgor/static/js/main.fa0cfc2c.chunk.js",
+    "main.js.map": "/proalgor/static/js/main.fa0cfc2c.chunk.js.map",
+    "runtime-main.js": "/proalgor/static/js/runtime-main.62cdd667.js",
+    "runtime-main.js.map": "/proalgor/static/js/runtime-main.62cdd667.js.map",
+    "static/js/2.8d22152a.chunk.js": "/proalgor/static/js/2.8d22152a.chunk.js",
+    "static/js/2.8d22152a.chunk.js.map": "/proalgor/static/js/2.8d22152a.chunk.js.map",
+    "index.html": "/proalgor/index.html",
+    "precache-manifest.923f01740fa3099c1c78e2f473c9718f.js": "/proalgor/precache-manifest.923f01740fa3099c1c78e2f473c9718f.js",
+    "service-worker.js": "/proalgor/service-worker.js",
+    "static/css/main.a8594ea9.chunk.css.map": "/proalgor/static/css/main.a8594ea9.chunk.css.map",
+    "static/js/2.8d22152a.chunk.js.LICENSE.txt": "/proalgor/static/js/2.8d22152a.chunk.js.LICENSE.txt",
+    "static/media/Express Yourself.svg": "/proalgor/static/media/Express Yourself.c8e3c14f.svg",
+    "static/media/Identity BackG.png": "/proalgor/static/media/Identity BackG.c3df914c.png",
+    "static/media/Identity.png": "/proalgor/static/media/Identity.49e0a6bd.png",
+    "static/media/Logo design SVG.svg": "/proalgor/static/media/Logo design SVG.24fdb11a.svg",
+    "static/media/Matte Logo.png": "/proalgor/static/media/Matte Logo.3b583ea4.png",
+    "static/media/Story SVG.svg": "/proalgor/static/media/Story SVG.216b6f89.svg",
+    "static/media/UI SVG.svg": "/proalgor/static/media/UI SVG.d70b84a4.svg",
+    "static/media/UiUx.png": "/proalgor/static/media/UiUx.2e50ab84.png",
+    "static/media/Web Development SVG.svg": "/proalgor/static/media/Web Development SVG.ae49f495.svg",
+    "static/media/blue boy background.svg": "/proalgor/static/media/blue boy background.713c3d7b.svg",
+    "static/media/boy edit.svg": "/proalgor/static/media/boy edit.362cf825.svg",
+    "static/media/pawel-czerwinski-KWpm9MmEo2s-unsplash.jpg": "/proalgor/static/media/pawel-czerwinski-KWpm9MmEo2s-unsplash.1098f94d.jpg",
+    "static/media/subscribe SVG.svg": "/proalgor/static/media/subscribe SVG.3ef26cfb.svg",
+    "static/media/web.png": "/proalgor/static/media/web.210473d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62cdd667.js",
+    "static/js/2.8d22152a.chunk.js",
+    "static/css/main.a8594ea9.chunk.css",
+    "static/js/main.fa0cfc2c.chunk.js"
+  ]
+}
