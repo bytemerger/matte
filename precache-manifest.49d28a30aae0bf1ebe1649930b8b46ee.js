@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90aad821a8028dffe64545ee74903ce6",
+    "revision": "eb14c431d3fc7d429db56de611e1b47d",
     "url": "/proalgor/index.html"
   },
   {
-    "revision": "5d3fbcbf813f11f1599c",
+    "revision": "6ac10f6e4344b1ab57e4",
     "url": "/proalgor/static/css/main.a8594ea9.chunk.css"
   },
   {
-    "revision": "8128d9a76e0726990330",
-    "url": "/proalgor/static/js/2.8d22152a.chunk.js"
+    "revision": "87747218ce80894d315c",
+    "url": "/proalgor/static/js/2.6376d6fb.chunk.js"
   },
   {
     "revision": "0d10b9de47c8023f7fd9d830b32d5242",
-    "url": "/proalgor/static/js/2.8d22152a.chunk.js.LICENSE.txt"
+    "url": "/proalgor/static/js/2.6376d6fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d3fbcbf813f11f1599c",
-    "url": "/proalgor/static/js/main.fa0cfc2c.chunk.js"
+    "revision": "6ac10f6e4344b1ab57e4",
+    "url": "/proalgor/static/js/main.d1e1068d.chunk.js"
   },
   {
     "revision": "871f8bc084aa21ef8d1e",
