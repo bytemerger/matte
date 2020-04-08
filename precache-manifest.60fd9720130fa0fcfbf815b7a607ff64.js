@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95575f3b06ef528a9f4dbb98bcfeb630",
+    "revision": "4abd36aa7575081d10669e6e1b39ac82",
     "url": "/matte/index.html"
   },
   {
-    "revision": "c3143784602005287849",
-    "url": "/matte/static/css/main.a8594ea9.chunk.css"
+    "revision": "2342ce717535c197729a",
+    "url": "/matte/static/css/main.334c10e9.chunk.css"
   },
   {
-    "revision": "bec1b1d7dbe427047cd6",
-    "url": "/matte/static/js/2.c58d461e.chunk.js"
+    "revision": "d48296aca6fa05054311",
+    "url": "/matte/static/js/2.795e9d12.chunk.js"
   },
   {
     "revision": "0d10b9de47c8023f7fd9d830b32d5242",
-    "url": "/matte/static/js/2.c58d461e.chunk.js.LICENSE.txt"
+    "url": "/matte/static/js/2.795e9d12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3143784602005287849",
-    "url": "/matte/static/js/main.72b218f4.chunk.js"
+    "revision": "2342ce717535c197729a",
+    "url": "/matte/static/js/main.dab16ca6.chunk.js"
   },
   {
     "revision": "0a5a5ca91a384307e59b",
     "url": "/matte/static/js/runtime-main.535cb61f.js"
+  },
+  {
+    "revision": "32a2f8e3812266d0da78738f5e1b037f",
+    "url": "/matte/static/media/Background.32a2f8e3.jpg"
   },
   {
     "revision": "c8e3c14f0581c2154be59cd911cc4652",
@@ -30,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c3df914c0381c67085943f5cfdcf936d",
     "url": "/matte/static/media/Identity BackG.c3df914c.png"
+  },
+  {
+    "revision": "c9aa7cc2fdb2a5b7d00d509233eb83de",
+    "url": "/matte/static/media/Identity WORK.c9aa7cc2.png"
   },
   {
     "revision": "49e0a6bd5598acd977f3acd95ba74dcd",
@@ -44,12 +52,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/Matte Logo.3b583ea4.png"
   },
   {
+    "revision": "1f8d505917eb0277f7b917b629e2e5c7",
+    "url": "/matte/static/media/Matte Work Logo.1f8d5059.svg"
+  },
+  {
     "revision": "216b6f8995b1a0bdb284b289949a7572",
     "url": "/matte/static/media/Story SVG.216b6f89.svg"
   },
   {
     "revision": "d70b84a4bdde43f3b515e532afdb3691",
     "url": "/matte/static/media/UI SVG.d70b84a4.svg"
+  },
+  {
+    "revision": "c79d59aa2058a25cd6ed41b12ae0da9e",
+    "url": "/matte/static/media/UiUx WORK.c79d59aa.png"
   },
   {
     "revision": "2e50ab8426cbb0bf731e8f50c503780a",
@@ -60,12 +76,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/Web Development SVG.ae49f495.svg"
   },
   {
+    "revision": "7ad8bd948cd8e21c280a981d2a501387",
+    "url": "/matte/static/media/Web WORK.7ad8bd94.png"
+  },
+  {
     "revision": "713c3d7b0146147fbeaf2b293f583a6f",
     "url": "/matte/static/media/blue boy background.713c3d7b.svg"
   },
   {
     "revision": "362cf825389cdaa76f518fbaae41ae43",
     "url": "/matte/static/media/boy edit.362cf825.svg"
+  },
+  {
+    "revision": "3a973954550ea00940763d14cc214d0c",
+    "url": "/matte/static/media/dare to be different.3a973954.svg"
   },
   {
     "revision": "1098f94d5c8cd84a9fcb9af20002a247",
