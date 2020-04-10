@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/matte/static/css/main.be24d8cc.chunk.css",
-    "main.js": "/matte/static/js/main.8499c316.chunk.js",
-    "main.js.map": "/matte/static/js/main.8499c316.chunk.js.map",
+    "main.css": "/matte/static/css/main.b1150291.chunk.css",
+    "main.js": "/matte/static/js/main.0d0b7e6f.chunk.js",
+    "main.js.map": "/matte/static/js/main.0d0b7e6f.chunk.js.map",
     "runtime-main.js": "/matte/static/js/runtime-main.535cb61f.js",
     "runtime-main.js.map": "/matte/static/js/runtime-main.535cb61f.js.map",
-    "static/js/2.795e9d12.chunk.js": "/matte/static/js/2.795e9d12.chunk.js",
-    "static/js/2.795e9d12.chunk.js.map": "/matte/static/js/2.795e9d12.chunk.js.map",
+    "static/js/2.d1cd21d7.chunk.js": "/matte/static/js/2.d1cd21d7.chunk.js",
+    "static/js/2.d1cd21d7.chunk.js.map": "/matte/static/js/2.d1cd21d7.chunk.js.map",
     "index.html": "/matte/index.html",
-    "precache-manifest.6f9a818a1591ba8a36018bd8fc08f8d7.js": "/matte/precache-manifest.6f9a818a1591ba8a36018bd8fc08f8d7.js",
+    "precache-manifest.64bd30889b4f8b8bf11912391a2eed75.js": "/matte/precache-manifest.64bd30889b4f8b8bf11912391a2eed75.js",
     "service-worker.js": "/matte/service-worker.js",
-    "static/css/main.be24d8cc.chunk.css.map": "/matte/static/css/main.be24d8cc.chunk.css.map",
-    "static/js/2.795e9d12.chunk.js.LICENSE.txt": "/matte/static/js/2.795e9d12.chunk.js.LICENSE.txt",
+    "static/css/main.b1150291.chunk.css.map": "/matte/static/css/main.b1150291.chunk.css.map",
+    "static/js/2.d1cd21d7.chunk.js.LICENSE.txt": "/matte/static/js/2.d1cd21d7.chunk.js.LICENSE.txt",
     "static/media/Background1.jpg": "/matte/static/media/Background1.eec9120d.jpg",
     "static/media/Express Yourself.svg": "/matte/static/media/Express Yourself.c8e3c14f.svg",
     "static/media/Identity BackG.png": "/matte/static/media/Identity BackG.c3df914c.png",
@@ -20,6 +20,7 @@
     "static/media/Logo design SVG.svg": "/matte/static/media/Logo design SVG.24fdb11a.svg",
     "static/media/Matte Logo.png": "/matte/static/media/Matte Logo.3b583ea4.png",
     "static/media/Matte Work Logo.svg": "/matte/static/media/Matte Work Logo.1f8d5059.svg",
+    "static/media/MobileWorkBg2.jpg": "/matte/static/media/MobileWorkBg2.f68bbf54.jpg",
     "static/media/Story SVG.svg": "/matte/static/media/Story SVG.216b6f89.svg",
     "static/media/UI SVG.svg": "/matte/static/media/UI SVG.d70b84a4.svg",
     "static/media/UiUx WORK.png": "/matte/static/media/UiUx WORK.c79d59aa.png",
@@ -35,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.535cb61f.js",
-    "static/js/2.795e9d12.chunk.js",
-    "static/css/main.be24d8cc.chunk.css",
-    "static/js/main.8499c316.chunk.js"
+    "static/js/2.d1cd21d7.chunk.js",
+    "static/css/main.b1150291.chunk.css",
+    "static/js/main.0d0b7e6f.chunk.js"
   ]
 }
