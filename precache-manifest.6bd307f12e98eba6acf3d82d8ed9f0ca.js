@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ef4eae0d8951cdf996645d039c3216d",
+    "revision": "7330376e1a293aeedf35035bc7a7c4b7",
     "url": "/matte/index.html"
   },
   {
-    "revision": "a3e95a497f26174b41ea",
-    "url": "/matte/static/css/main.04eda847.chunk.css"
+    "revision": "72f144a4187f7bd21fcb",
+    "url": "/matte/static/css/main.7cd08afe.chunk.css"
   },
   {
-    "revision": "b412fd83b94867e9c5df",
-    "url": "/matte/static/js/2.4740e007.chunk.js"
+    "revision": "0a14a5efbb4bb7c7693e",
+    "url": "/matte/static/js/2.6971adbf.chunk.js"
   },
   {
-    "revision": "0d10b9de47c8023f7fd9d830b32d5242",
-    "url": "/matte/static/js/2.4740e007.chunk.js.LICENSE.txt"
+    "revision": "5ce75d19fecb6d398b69762f036df133",
+    "url": "/matte/static/js/2.6971adbf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a3e95a497f26174b41ea",
-    "url": "/matte/static/js/main.e55b5e0a.chunk.js"
+    "revision": "72f144a4187f7bd21fcb",
+    "url": "/matte/static/js/main.bf8161c4.chunk.js"
   },
   {
     "revision": "0a5a5ca91a384307e59b",
     "url": "/matte/static/js/runtime-main.535cb61f.js"
   },
   {
-    "revision": "2c246f4fe7288bdbaba2b63d7a681970",
-    "url": "/matte/static/media/10NANTS-Web.2c246f4f.png"
+    "revision": "873a3d6f427bf274b5c7b5fd2e63bae0",
+    "url": "/matte/static/media/10nants-BG.873a3d6f.jpg"
   },
   {
     "revision": "bcbd423a249a39497e1201a9d7ed1f70",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eec9120dc827a10b25f7529c99579358",
     "url": "/matte/static/media/Background1.eec9120d.jpg"
+  },
+  {
+    "revision": "eac7c4ae7bc36094c5a414c44538ee05",
+    "url": "/matte/static/media/Danny story.eac7c4ae.png"
   },
   {
     "revision": "c8e3c14f0581c2154be59cd911cc4652",
@@ -86,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dd4d1b44efeb05aa7f49ff61f9643f0f",
     "url": "/matte/static/media/Niger-Hospital.dd4d1b44.jpg"
+  },
+  {
+    "revision": "cd3d34b7e1a109bfac8e35b397c56cad",
+    "url": "/matte/static/media/Onyishi story.cd3d34b7.png"
   },
   {
     "revision": "3da7fd90245080ad2de3259b97aec303",
@@ -146,6 +154,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2edafb8100b9be8d067bd259dd6cc114",
     "url": "/matte/static/media/kasone.2edafb81.jpg"
+  },
+  {
+    "revision": "46010a173b9a85380b069d9e849861d5",
+    "url": "/matte/static/media/kene story.46010a17.png"
   },
   {
     "revision": "ea5f388f477a1f996f833be4698c567f",
