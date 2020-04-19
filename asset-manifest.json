@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/matte/static/css/main.7cd08afe.chunk.css",
-    "main.js": "/matte/static/js/main.bf8161c4.chunk.js",
-    "main.js.map": "/matte/static/js/main.bf8161c4.chunk.js.map",
+    "main.css": "/matte/static/css/main.b7e91cf0.chunk.css",
+    "main.js": "/matte/static/js/main.e283dbe0.chunk.js",
+    "main.js.map": "/matte/static/js/main.e283dbe0.chunk.js.map",
     "runtime-main.js": "/matte/static/js/runtime-main.535cb61f.js",
     "runtime-main.js.map": "/matte/static/js/runtime-main.535cb61f.js.map",
-    "static/js/2.6971adbf.chunk.js": "/matte/static/js/2.6971adbf.chunk.js",
-    "static/js/2.6971adbf.chunk.js.map": "/matte/static/js/2.6971adbf.chunk.js.map",
+    "static/js/2.153f2329.chunk.js": "/matte/static/js/2.153f2329.chunk.js",
+    "static/js/2.153f2329.chunk.js.map": "/matte/static/js/2.153f2329.chunk.js.map",
     "index.html": "/matte/index.html",
-    "precache-manifest.6bd307f12e98eba6acf3d82d8ed9f0ca.js": "/matte/precache-manifest.6bd307f12e98eba6acf3d82d8ed9f0ca.js",
+    "precache-manifest.536cc32f5a0b340ab6a9f026f56b8a21.js": "/matte/precache-manifest.536cc32f5a0b340ab6a9f026f56b8a21.js",
     "service-worker.js": "/matte/service-worker.js",
-    "static/css/main.7cd08afe.chunk.css.map": "/matte/static/css/main.7cd08afe.chunk.css.map",
-    "static/js/2.6971adbf.chunk.js.LICENSE.txt": "/matte/static/js/2.6971adbf.chunk.js.LICENSE.txt",
+    "static/css/main.b7e91cf0.chunk.css.map": "/matte/static/css/main.b7e91cf0.chunk.css.map",
+    "static/js/2.153f2329.chunk.js.LICENSE.txt": "/matte/static/js/2.153f2329.chunk.js.LICENSE.txt",
     "static/media/10nants-BG.jpg": "/matte/static/media/10nants-BG.873a3d6f.jpg",
     "static/media/9ja_s-choice.jpg": "/matte/static/media/9ja_s-choice.bcbd423a.jpg",
     "static/media/9jacodekids.jpg": "/matte/static/media/9jacodekids.7fce6ea6.jpg",
@@ -27,7 +27,13 @@
     "static/media/Logo design SVG.svg": "/matte/static/media/Logo design SVG.24fdb11a.svg",
     "static/media/Matte Logo.png": "/matte/static/media/Matte Logo.3b583ea4.png",
     "static/media/Matte Work Logo.svg": "/matte/static/media/Matte Work Logo.1f8d5059.svg",
+    "static/media/Mobile10NANTSBG.jpg": "/matte/static/media/Mobile10NANTSBG.bc725244.jpg",
+    "static/media/Mobile9JASCHOICEBG.jpg": "/matte/static/media/Mobile9JASCHOICEBG.0d92110f.jpg",
+    "static/media/Mobile9jacodeBG.jpg": "/matte/static/media/Mobile9jacodeBG.e0659373.jpg",
+    "static/media/MobileAutoBG.jpg": "/matte/static/media/MobileAutoBG.4a329d40.jpg",
+    "static/media/MobileTopher.jpg": "/matte/static/media/MobileTopher.35ca1d3f.jpg",
     "static/media/MobileWorkBg2.jpg": "/matte/static/media/MobileWorkBg2.f68bbf54.jpg",
+    "static/media/MobilekasBG.jpg": "/matte/static/media/MobilekasBG.9ec908d9.jpg",
     "static/media/Niger-Hospital.jpg": "/matte/static/media/Niger-Hospital.dd4d1b44.jpg",
     "static/media/Onyishi story.png": "/matte/static/media/Onyishi story.cd3d34b7.png",
     "static/media/Spex-Shots.jpg": "/matte/static/media/Spex-Shots.3da7fd90.jpg",
@@ -52,8 +58,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.535cb61f.js",
-    "static/js/2.6971adbf.chunk.js",
-    "static/css/main.7cd08afe.chunk.css",
-    "static/js/main.bf8161c4.chunk.js"
+    "static/js/2.153f2329.chunk.js",
+    "static/css/main.b7e91cf0.chunk.css",
+    "static/js/main.e283dbe0.chunk.js"
   ]
 }
