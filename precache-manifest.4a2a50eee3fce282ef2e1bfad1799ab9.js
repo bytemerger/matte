@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8c949c3d7d0a6b9fa060deda465e39c",
+    "revision": "afa75d0914c40a2325d3a8f2bc53a91b",
     "url": "/matte/index.html"
   },
   {
-    "revision": "1cee6661f38fd1a888e5",
-    "url": "/matte/static/css/main.b7e91cf0.chunk.css"
+    "revision": "449d52bcdab2d5c4a743",
+    "url": "/matte/static/css/main.9e3bd532.chunk.css"
   },
   {
-    "revision": "d74f735eb1e276ec8e77",
-    "url": "/matte/static/js/2.153f2329.chunk.js"
+    "revision": "477285271e6c19fcc9e4",
+    "url": "/matte/static/js/2.9d45ce71.chunk.js"
   },
   {
     "revision": "5ce75d19fecb6d398b69762f036df133",
-    "url": "/matte/static/js/2.153f2329.chunk.js.LICENSE.txt"
+    "url": "/matte/static/js/2.9d45ce71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1cee6661f38fd1a888e5",
-    "url": "/matte/static/js/main.e283dbe0.chunk.js"
+    "revision": "449d52bcdab2d5c4a743",
+    "url": "/matte/static/js/main.67b9aba4.chunk.js"
   },
   {
     "revision": "0a5a5ca91a384307e59b",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "24fdb11aec188e65c9060c03a256ee43",
     "url": "/matte/static/media/Logo design SVG.24fdb11a.svg"
+  },
+  {
+    "revision": "e489714d2dd8eabc4016132905166c39",
+    "url": "/matte/static/media/Matte Logo White.e489714d.png"
   },
   {
     "revision": "3b583ea41e3e390cc7741a78b308eb75",
