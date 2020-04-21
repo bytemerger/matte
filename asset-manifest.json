@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/matte/static/css/main.2a1c26a5.chunk.css",
+    "main.css": "/matte/static/css/main.ca97e085.chunk.css",
     "main.js": "/matte/static/js/main.0aab7249.chunk.js",
     "main.js.map": "/matte/static/js/main.0aab7249.chunk.js.map",
     "runtime-main.js": "/matte/static/js/runtime-main.535cb61f.js",
@@ -8,9 +8,9 @@
     "static/js/2.922009be.chunk.js": "/matte/static/js/2.922009be.chunk.js",
     "static/js/2.922009be.chunk.js.map": "/matte/static/js/2.922009be.chunk.js.map",
     "index.html": "/matte/index.html",
-    "precache-manifest.c65d67c908b55cff3f69e43ba9554042.js": "/matte/precache-manifest.c65d67c908b55cff3f69e43ba9554042.js",
+    "precache-manifest.c40d5c2384d3ea23e7bf86c69cf21827.js": "/matte/precache-manifest.c40d5c2384d3ea23e7bf86c69cf21827.js",
     "service-worker.js": "/matte/service-worker.js",
-    "static/css/main.2a1c26a5.chunk.css.map": "/matte/static/css/main.2a1c26a5.chunk.css.map",
+    "static/css/main.ca97e085.chunk.css.map": "/matte/static/css/main.ca97e085.chunk.css.map",
     "static/js/2.922009be.chunk.js.LICENSE.txt": "/matte/static/js/2.922009be.chunk.js.LICENSE.txt",
     "static/media/10nants-BG.jpg": "/matte/static/media/10nants-BG.873a3d6f.jpg",
     "static/media/9ja_s-choice.jpg": "/matte/static/media/9ja_s-choice.bcbd423a.jpg",
@@ -60,7 +60,7 @@
   "entrypoints": [
     "static/js/runtime-main.535cb61f.js",
     "static/js/2.922009be.chunk.js",
-    "static/css/main.2a1c26a5.chunk.css",
+    "static/css/main.ca97e085.chunk.css",
     "static/js/main.0aab7249.chunk.js"
   ]
 }
