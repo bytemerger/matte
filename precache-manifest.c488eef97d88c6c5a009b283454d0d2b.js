@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a068b6b4cc8dea2cdb1dc9dfc305a831",
+    "revision": "3c0e872dae37683605f85e1391cbbef3",
     "url": "/matte/index.html"
   },
   {
-    "revision": "59e8ccbae465d520f6b2",
-    "url": "/matte/static/css/main.a6c96421.chunk.css"
+    "revision": "a24bb31018723c1d27e1",
+    "url": "/matte/static/css/2.183800ca.chunk.css"
   },
   {
-    "revision": "0a96938cace679aaef15",
-    "url": "/matte/static/js/2.922009be.chunk.js"
+    "revision": "3e6aa18d57f49dd0cda8",
+    "url": "/matte/static/css/main.411071a8.chunk.css"
+  },
+  {
+    "revision": "a24bb31018723c1d27e1",
+    "url": "/matte/static/js/2.fea47d68.chunk.js"
   },
   {
     "revision": "5ce75d19fecb6d398b69762f036df133",
-    "url": "/matte/static/js/2.922009be.chunk.js.LICENSE.txt"
+    "url": "/matte/static/js/2.fea47d68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59e8ccbae465d520f6b2",
-    "url": "/matte/static/js/main.10339cf4.chunk.js"
+    "revision": "3e6aa18d57f49dd0cda8",
+    "url": "/matte/static/js/main.732653a1.chunk.js"
   },
   {
     "revision": "0a5a5ca91a384307e59b",
@@ -124,12 +128,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/Onyishi story.cd3d34b7.png"
   },
   {
+    "revision": "cdbf4c5d70139451741c494177b6ea6d",
+    "url": "/matte/static/media/Picture 1.cdbf4c5d.jpg"
+  },
+  {
+    "revision": "80a53b5d800b627da37d9b1905b58668",
+    "url": "/matte/static/media/Picture 3.80a53b5d.jpg"
+  },
+  {
+    "revision": "33b98e64cca9892815113b328eb75955",
+    "url": "/matte/static/media/Picture 4.33b98e64.jpg"
+  },
+  {
+    "revision": "0271971014a65e0f963b67be458b1cf2",
+    "url": "/matte/static/media/Picture 5.02719710.jpg"
+  },
+  {
+    "revision": "717bb71e97baa959e58865655832583c",
+    "url": "/matte/static/media/Picture 6.717bb71e.jpg"
+  },
+  {
+    "revision": "cea1c6545f57c191488fc534add0d36a",
+    "url": "/matte/static/media/Picture 7.cea1c654.jpg"
+  },
+  {
+    "revision": "7cf3a7c9392c1e1526cce664d07a1756",
+    "url": "/matte/static/media/Picture 8.7cf3a7c9.jpg"
+  },
+  {
+    "revision": "129fd83836b3c21438630a62e7eedf2c",
+    "url": "/matte/static/media/Picture 9.129fd838.jpg"
+  },
+  {
     "revision": "3da7fd90245080ad2de3259b97aec303",
     "url": "/matte/static/media/Spex-Shots.3da7fd90.jpg"
   },
   {
     "revision": "216b6f8995b1a0bdb284b289949a7572",
     "url": "/matte/static/media/Story SVG.216b6f89.svg"
+  },
+  {
+    "revision": "19bb795894fe9e06d5b85ef1eb1c1a40",
+    "url": "/matte/static/media/TOpher logo.19bb7958.svg"
+  },
+  {
+    "revision": "00baf8b1f17126242f19ab24a6aa8c72",
+    "url": "/matte/static/media/Topher boxes.00baf8b1.jpg"
   },
   {
     "revision": "11780765345d96b1234e93d4be7469f7",
@@ -190,6 +234,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ea5f388f477a1f996f833be4698c567f",
     "url": "/matte/static/media/pawel-czerwinski-KWpm9MmEo2s-unsplash.ea5f388f.jpg"
+  },
+  {
+    "revision": "540054e2e76779e9ea10abdd0bd1db05",
+    "url": "/matte/static/media/picture 2.540054e2.jpg"
+  },
+  {
+    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
+    "url": "/matte/static/media/revicons.04eb8fc5.woff"
+  },
+  {
+    "revision": "17629a5dfe0d3c3946cf401e1895f091",
+    "url": "/matte/static/media/revicons.17629a5d.ttf"
+  },
+  {
+    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
+    "url": "/matte/static/media/revicons.2feb69cc.eot"
   },
   {
     "revision": "3ef26cfb5ec924f4be393305a3935e61",
