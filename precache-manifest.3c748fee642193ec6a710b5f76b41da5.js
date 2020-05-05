@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c0e872dae37683605f85e1391cbbef3",
+    "revision": "3e0ef92bf859a2d570519c4755349b51",
     "url": "/matte/index.html"
   },
   {
-    "revision": "a24bb31018723c1d27e1",
+    "revision": "ce0993b28b9e04421a21",
     "url": "/matte/static/css/2.183800ca.chunk.css"
   },
   {
-    "revision": "3e6aa18d57f49dd0cda8",
-    "url": "/matte/static/css/main.411071a8.chunk.css"
+    "revision": "9a8a6e67b60661ed9ff8",
+    "url": "/matte/static/css/main.163e8f4e.chunk.css"
   },
   {
-    "revision": "a24bb31018723c1d27e1",
-    "url": "/matte/static/js/2.fea47d68.chunk.js"
+    "revision": "ce0993b28b9e04421a21",
+    "url": "/matte/static/js/2.2e8b6671.chunk.js"
   },
   {
     "revision": "5ce75d19fecb6d398b69762f036df133",
-    "url": "/matte/static/js/2.fea47d68.chunk.js.LICENSE.txt"
+    "url": "/matte/static/js/2.2e8b6671.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e6aa18d57f49dd0cda8",
-    "url": "/matte/static/js/main.732653a1.chunk.js"
+    "revision": "9a8a6e67b60661ed9ff8",
+    "url": "/matte/static/js/main.ef85d93c.chunk.js"
   },
   {
     "revision": "0a5a5ca91a384307e59b",
@@ -62,6 +62,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8e3c14f0581c2154be59cd911cc4652",
     "url": "/matte/static/media/Express Yourself.c8e3c14f.svg"
+  },
+  {
+    "revision": "97b66a3e594e118d757a98d510fc5535",
+    "url": "/matte/static/media/IMG_3436.97b66a3e.JPG"
+  },
+  {
+    "revision": "48cace3fa6c35f2b2e0783985135677b",
+    "url": "/matte/static/media/IMG_3788.48cace3f.JPG"
+  },
+  {
+    "revision": "e44338fb0e03b790b40d87e5f2e0757b",
+    "url": "/matte/static/media/IMG_3844.e44338fb.JPG"
+  },
+  {
+    "revision": "8cdbab554d027530956610cedd10f21e",
+    "url": "/matte/static/media/IMG_6032.8cdbab55.JPG"
   },
   {
     "revision": "c3df914c0381c67085943f5cfdcf936d",
@@ -164,12 +180,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/Spex-Shots.3da7fd90.jpg"
   },
   {
+    "revision": "2d0307f9182e1c2696e63c608a209630",
+    "url": "/matte/static/media/Spexshots.2d0307f9.svg"
+  },
+  {
     "revision": "216b6f8995b1a0bdb284b289949a7572",
     "url": "/matte/static/media/Story SVG.216b6f89.svg"
   },
   {
     "revision": "19bb795894fe9e06d5b85ef1eb1c1a40",
     "url": "/matte/static/media/TOpher logo.19bb7958.svg"
+  },
+  {
+    "revision": "18ac42351e643b23746a9360279cb4ae",
+    "url": "/matte/static/media/Topher App.18ac4235.jpg"
   },
   {
     "revision": "00baf8b1f17126242f19ab24a6aa8c72",
@@ -210,6 +234,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7ad8bd948cd8e21c280a981d2a501387",
     "url": "/matte/static/media/Web WORK.7ad8bd94.png"
+  },
+  {
+    "revision": "31d22d379c929518d24eaedb0b231d4b",
+    "url": "/matte/static/media/black-and-white-black-background-camera-camera-equipment-1595244.31d22d37.jpg"
   },
   {
     "revision": "713c3d7b0146147fbeaf2b293f583a6f",
