@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73d244048e67f4a901a09f7b221955b4",
+    "revision": "3184fd02f0d88ec7fec77fc269713880",
     "url": "/matte/index.html"
   },
   {
-    "revision": "6ab6ce6253781cd536a6",
+    "revision": "88796d642344a5247d7f",
     "url": "/matte/static/css/2.183800ca.chunk.css"
   },
   {
-    "revision": "96d720012efb461d4d3c",
-    "url": "/matte/static/css/main.2370c8f2.chunk.css"
+    "revision": "7f68342db752415f9703",
+    "url": "/matte/static/css/main.1c07779d.chunk.css"
   },
   {
-    "revision": "6ab6ce6253781cd536a6",
-    "url": "/matte/static/js/2.20553c5a.chunk.js"
+    "revision": "88796d642344a5247d7f",
+    "url": "/matte/static/js/2.bf5f0ea7.chunk.js"
   },
   {
     "revision": "5ce75d19fecb6d398b69762f036df133",
-    "url": "/matte/static/js/2.20553c5a.chunk.js.LICENSE.txt"
+    "url": "/matte/static/js/2.bf5f0ea7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "96d720012efb461d4d3c",
-    "url": "/matte/static/js/main.0397f71f.chunk.js"
+    "revision": "7f68342db752415f9703",
+    "url": "/matte/static/js/main.3928d648.chunk.js"
   },
   {
     "revision": "0a5a5ca91a384307e59b",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7fce6ea61dbd326ecb9dba99b37f46b0",
     "url": "/matte/static/media/9jacodekids.7fce6ea6.jpg"
+  },
+  {
+    "revision": "243eab1bea3ecf0ffa92bda4b09dec85",
+    "url": "/matte/static/media/Adidas Shoe.243eab1b.jpg"
   },
   {
     "revision": "9a93b7f7f604c63759db17cfae936112",
@@ -188,8 +192,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/Onyishi story.cd3d34b7.png"
   },
   {
+    "revision": "9680eb42aa16e88833db678682bb5819",
+    "url": "/matte/static/media/Picture 1.9680eb42.jpg"
+  },
+  {
     "revision": "cdbf4c5d70139451741c494177b6ea6d",
     "url": "/matte/static/media/Picture 1.cdbf4c5d.jpg"
+  },
+  {
+    "revision": "527bf64890ad781f49f9a7b2339571b4",
+    "url": "/matte/static/media/Picture 2.527bf648.jpg"
+  },
+  {
+    "revision": "7e6235bf4dfeab1f704345ed93acdaff",
+    "url": "/matte/static/media/Picture 3.7e6235bf.jpg"
   },
   {
     "revision": "80a53b5d800b627da37d9b1905b58668",
@@ -292,12 +308,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/boy edit.362cf825.svg"
   },
   {
+    "revision": "ca73250f22f9d153de2de4f88037e9d9",
+    "url": "/matte/static/media/boy.ca73250f.jpg"
+  },
+  {
     "revision": "3a973954550ea00940763d14cc214d0c",
     "url": "/matte/static/media/dare to be different.3a973954.svg"
   },
   {
     "revision": "5c87c60db38e7bff51ea12da8c88a7bb",
     "url": "/matte/static/media/globe_vector-02.5c87c60d.png"
+  },
+  {
+    "revision": "27cd26af52ea8865ba34c44da84b08b1",
+    "url": "/matte/static/media/kasone Tag.27cd26af.jpg"
   },
   {
     "revision": "2edafb8100b9be8d067bd259dd6cc114",
