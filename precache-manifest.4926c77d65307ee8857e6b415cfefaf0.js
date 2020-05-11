@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7f5dd6c5a5195368869fc630e770b05",
+    "revision": "73d244048e67f4a901a09f7b221955b4",
     "url": "/matte/index.html"
   },
   {
-    "revision": "f8604c5a53bc73022452",
+    "revision": "6ab6ce6253781cd536a6",
     "url": "/matte/static/css/2.183800ca.chunk.css"
   },
   {
-    "revision": "aabfe5acbf38aeceb719",
-    "url": "/matte/static/css/main.46f0b435.chunk.css"
+    "revision": "96d720012efb461d4d3c",
+    "url": "/matte/static/css/main.2370c8f2.chunk.css"
   },
   {
-    "revision": "f8604c5a53bc73022452",
-    "url": "/matte/static/js/2.a500b3ac.chunk.js"
+    "revision": "6ab6ce6253781cd536a6",
+    "url": "/matte/static/js/2.20553c5a.chunk.js"
   },
   {
     "revision": "5ce75d19fecb6d398b69762f036df133",
-    "url": "/matte/static/js/2.a500b3ac.chunk.js.LICENSE.txt"
+    "url": "/matte/static/js/2.20553c5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aabfe5acbf38aeceb719",
-    "url": "/matte/static/js/main.6a03d7bd.chunk.js"
+    "revision": "96d720012efb461d4d3c",
+    "url": "/matte/static/js/main.0397f71f.chunk.js"
   },
   {
     "revision": "0a5a5ca91a384307e59b",
@@ -56,12 +56,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/6.995effce.jpg"
   },
   {
+    "revision": "7465df5116b48f6778fe1d1ad9c22998",
+    "url": "/matte/static/media/9JACODEKIDS BlackandWhite.7465df51.svg"
+  },
+  {
     "revision": "bcbd423a249a39497e1201a9d7ed1f70",
     "url": "/matte/static/media/9ja_s-choice.bcbd423a.jpg"
   },
   {
+    "revision": "93f8a84d703f6e672a0f6d48a87797e3",
+    "url": "/matte/static/media/9jacodekids Icons SVG.93f8a84d.svg"
+  },
+  {
     "revision": "7fce6ea61dbd326ecb9dba99b37f46b0",
     "url": "/matte/static/media/9jacodekids.7fce6ea6.jpg"
+  },
+  {
+    "revision": "9a93b7f7f604c63759db17cfae936112",
+    "url": "/matte/static/media/App Creator Contest Logo.9a93b7f7.svg"
   },
   {
     "revision": "a7485862801bbe641252cb287fba7f5c",
@@ -80,12 +92,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/Background1.eec9120d.jpg"
   },
   {
+    "revision": "ff20dd14c9f1bd72088d4f83a591276a",
+    "url": "/matte/static/media/Circle Bracket Blue.ff20dd14.svg"
+  },
+  {
+    "revision": "98abaa0dc91baabac56935e54c84b520",
+    "url": "/matte/static/media/Circle bracket.98abaa0d.svg"
+  },
+  {
     "revision": "eac7c4ae7bc36094c5a414c44538ee05",
     "url": "/matte/static/media/Danny story.eac7c4ae.png"
   },
   {
     "revision": "c8e3c14f0581c2154be59cd911cc4652",
     "url": "/matte/static/media/Express Yourself.c8e3c14f.svg"
+  },
+  {
+    "revision": "17152bb021c3e2206f866f58e0d8c56e",
+    "url": "/matte/static/media/Fine Boy with tablet.17152bb0.jpg"
+  },
+  {
+    "revision": "03f40adbad416a01d36554a7a2fc8c2a",
+    "url": "/matte/static/media/Founder and CEO.03f40adb.png"
+  },
+  {
+    "revision": "ce0403ee718c2a1066be9d18c2f68c0e",
+    "url": "/matte/static/media/Glasses Boy.ce0403ee.jpg"
   },
   {
     "revision": "c3df914c0381c67085943f5cfdcf936d",
@@ -98,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "49e0a6bd5598acd977f3acd95ba74dcd",
     "url": "/matte/static/media/Identity.49e0a6bd.png"
+  },
+  {
+    "revision": "7320bf6a152905c8762b24cd6bcea890",
+    "url": "/matte/static/media/Logo Coloured.7320bf6a.svg"
   },
   {
     "revision": "24fdb11aec188e65c9060c03a256ee43",
@@ -258,6 +294,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3a973954550ea00940763d14cc214d0c",
     "url": "/matte/static/media/dare to be different.3a973954.svg"
+  },
+  {
+    "revision": "5c87c60db38e7bff51ea12da8c88a7bb",
+    "url": "/matte/static/media/globe_vector-02.5c87c60d.png"
   },
   {
     "revision": "2edafb8100b9be8d067bd259dd6cc114",
