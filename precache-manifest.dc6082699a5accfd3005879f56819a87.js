@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3184fd02f0d88ec7fec77fc269713880",
+    "revision": "9455f8c169237a90f373410a937dd915",
     "url": "/matte/index.html"
   },
   {
-    "revision": "88796d642344a5247d7f",
+    "revision": "a701deb25bcf768f2f2a",
     "url": "/matte/static/css/2.183800ca.chunk.css"
   },
   {
-    "revision": "7f68342db752415f9703",
-    "url": "/matte/static/css/main.1c07779d.chunk.css"
+    "revision": "799e7d5ddccbcc4f2457",
+    "url": "/matte/static/css/main.6e996652.chunk.css"
   },
   {
-    "revision": "88796d642344a5247d7f",
-    "url": "/matte/static/js/2.bf5f0ea7.chunk.js"
+    "revision": "a701deb25bcf768f2f2a",
+    "url": "/matte/static/js/2.6dbeaa1e.chunk.js"
   },
   {
     "revision": "5ce75d19fecb6d398b69762f036df133",
-    "url": "/matte/static/js/2.bf5f0ea7.chunk.js.LICENSE.txt"
+    "url": "/matte/static/js/2.6dbeaa1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f68342db752415f9703",
-    "url": "/matte/static/js/main.3928d648.chunk.js"
+    "revision": "799e7d5ddccbcc4f2457",
+    "url": "/matte/static/js/main.7dd2b1d4.chunk.js"
   },
   {
     "revision": "0a5a5ca91a384307e59b",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5fec87bcc40e9ba59a33a98529f41b6b",
     "url": "/matte/static/media/1.5fec87bc.jpg"
+  },
+  {
+    "revision": "19f93e862795bd6a62150482e679d905",
+    "url": "/matte/static/media/10nants iMac.19f93e86.jpg"
+  },
+  {
+    "revision": "79ab342422d77d5b2521a2b22a2956d4",
+    "url": "/matte/static/media/10nants iPhone.79ab3424.jpg"
   },
   {
     "revision": "873a3d6f427bf274b5c7b5fd2e63bae0",
@@ -136,12 +144,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/Identity.49e0a6bd.png"
   },
   {
+    "revision": "cb757f7e9f8b93d1ba97693b60bc133e",
+    "url": "/matte/static/media/Kasone App.cb757f7e.jpg"
+  },
+  {
     "revision": "7320bf6a152905c8762b24cd6bcea890",
     "url": "/matte/static/media/Logo Coloured.7320bf6a.svg"
   },
   {
     "revision": "24fdb11aec188e65c9060c03a256ee43",
     "url": "/matte/static/media/Logo design SVG.24fdb11a.svg"
+  },
+  {
+    "revision": "60509c9a9a34d6968e572d335add9d57",
+    "url": "/matte/static/media/Luxury Box.60509c9a.jpg"
   },
   {
     "revision": "e489714d2dd8eabc4016132905166c39",
@@ -182,6 +198,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9ec908d9768cc0bdec673564903c13ed",
     "url": "/matte/static/media/MobilekasBG.9ec908d9.jpg"
+  },
+  {
+    "revision": "aeee6033dde56a55785088c26caf6fcd",
+    "url": "/matte/static/media/Monochrome.aeee6033.svg"
   },
   {
     "revision": "dd4d1b44efeb05aa7f49ff61f9643f0f",
@@ -300,8 +320,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/black-and-white-black-background-camera-camera-equipment-1595244.31d22d37.jpg"
   },
   {
+    "revision": "97da82037ad4a3c593b2f96e4cc6b5c6",
+    "url": "/matte/static/media/blackndwhite.97da8203.svg"
+  },
+  {
     "revision": "713c3d7b0146147fbeaf2b293f583a6f",
     "url": "/matte/static/media/blue boy background.713c3d7b.svg"
+  },
+  {
+    "revision": "c9aeff5cf00f9237eb9c203f02c23131",
+    "url": "/matte/static/media/book-mockup-scene@2x.c9aeff5c.jpg"
   },
   {
     "revision": "362cf825389cdaa76f518fbaae41ae43",
@@ -312,12 +340,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/boy.ca73250f.jpg"
   },
   {
+    "revision": "a5df3eae69bc2573fc7af2da09ef6009",
+    "url": "/matte/static/media/cloth-bag-mockup-scene@2x.a5df3eae.jpg"
+  },
+  {
     "revision": "3a973954550ea00940763d14cc214d0c",
     "url": "/matte/static/media/dare to be different.3a973954.svg"
   },
   {
     "revision": "5c87c60db38e7bff51ea12da8c88a7bb",
     "url": "/matte/static/media/globe_vector-02.5c87c60d.png"
+  },
+  {
+    "revision": "590443189f25f15278438e8cf1f18697",
+    "url": "/matte/static/media/house.59044318.png"
+  },
+  {
+    "revision": "3f696e77c053d76c4ff778fab203dd43",
+    "url": "/matte/static/media/iphone-xs-max-mockup-scene@2x.3f696e77.jpg"
   },
   {
     "revision": "27cd26af52ea8865ba34c44da84b08b1",
@@ -330,6 +370,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "46010a173b9a85380b069d9e849861d5",
     "url": "/matte/static/media/kene story.46010a17.png"
+  },
+  {
+    "revision": "8c438638ace4430eab07a18a6f267cbc",
+    "url": "/matte/static/media/logo.8c438638.svg"
   },
   {
     "revision": "ea5f388f477a1f996f833be4698c567f",
