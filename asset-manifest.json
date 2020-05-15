@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/matte/static/css/main.6e996652.chunk.css",
-    "main.js": "/matte/static/js/main.21c400a5.chunk.js",
-    "main.js.map": "/matte/static/js/main.21c400a5.chunk.js.map",
+    "main.css": "/matte/static/css/main.2939b956.chunk.css",
+    "main.js": "/matte/static/js/main.8b7551e3.chunk.js",
+    "main.js.map": "/matte/static/js/main.8b7551e3.chunk.js.map",
     "runtime-main.js": "/matte/static/js/runtime-main.535cb61f.js",
     "runtime-main.js.map": "/matte/static/js/runtime-main.535cb61f.js.map",
     "static/css/2.183800ca.chunk.css": "/matte/static/css/2.183800ca.chunk.css",
-    "static/js/2.6dbeaa1e.chunk.js": "/matte/static/js/2.6dbeaa1e.chunk.js",
-    "static/js/2.6dbeaa1e.chunk.js.map": "/matte/static/js/2.6dbeaa1e.chunk.js.map",
+    "static/js/2.7bdb345b.chunk.js": "/matte/static/js/2.7bdb345b.chunk.js",
+    "static/js/2.7bdb345b.chunk.js.map": "/matte/static/js/2.7bdb345b.chunk.js.map",
     "index.html": "/matte/index.html",
-    "precache-manifest.db4c9ea888adae48f65796f15b4a19ad.js": "/matte/precache-manifest.db4c9ea888adae48f65796f15b4a19ad.js",
+    "precache-manifest.a8b5aa28e3c33abb75a6f6e951a569d7.js": "/matte/precache-manifest.a8b5aa28e3c33abb75a6f6e951a569d7.js",
     "service-worker.js": "/matte/service-worker.js",
     "static/css/2.183800ca.chunk.css.map": "/matte/static/css/2.183800ca.chunk.css.map",
-    "static/css/main.6e996652.chunk.css.map": "/matte/static/css/main.6e996652.chunk.css.map",
-    "static/js/2.6dbeaa1e.chunk.js.LICENSE.txt": "/matte/static/js/2.6dbeaa1e.chunk.js.LICENSE.txt",
+    "static/css/main.2939b956.chunk.css.map": "/matte/static/css/main.2939b956.chunk.css.map",
+    "static/js/2.7bdb345b.chunk.js.LICENSE.txt": "/matte/static/js/2.7bdb345b.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/matte/static/media/1.5fec87bc.jpg",
     "static/media/10nants iMac.jpg": "/matte/static/media/10nants iMac.19f93e86.jpg",
     "static/media/10nants iPhone.jpg": "/matte/static/media/10nants iPhone.79ab3424.jpg",
@@ -69,6 +69,8 @@
     "static/media/Picture 7.jpg": "/matte/static/media/Picture 7.cea1c654.jpg",
     "static/media/Picture 8.jpg": "/matte/static/media/Picture 8.7cf3a7c9.jpg",
     "static/media/Picture 9.jpg": "/matte/static/media/Picture 9.129fd838.jpg",
+    "static/media/S10 Plus.jpg": "/matte/static/media/S10 Plus.10b435df.jpg",
+    "static/media/Sienna.jpg": "/matte/static/media/Sienna.8c1d1ad6.jpg",
     "static/media/Spex-Shots.jpg": "/matte/static/media/Spex-Shots.3da7fd90.jpg",
     "static/media/Spexshots.svg": "/matte/static/media/Spexshots.2d0307f9.svg",
     "static/media/Story SVG.svg": "/matte/static/media/Story SVG.216b6f89.svg",
@@ -94,6 +96,7 @@
     "static/media/dare to be different.svg": "/matte/static/media/dare to be different.3a973954.svg",
     "static/media/globe_vector-02.png": "/matte/static/media/globe_vector-02.5c87c60d.png",
     "static/media/house.png": "/matte/static/media/house.59044318.png",
+    "static/media/img_0.png": "/matte/static/media/img_0.f09a9812.png",
     "static/media/iphone-xs-max-mockup-scene@2x.jpg": "/matte/static/media/iphone-xs-max-mockup-scene@2x.3f696e77.jpg",
     "static/media/kasone Tag.jpg": "/matte/static/media/kasone Tag.27cd26af.jpg",
     "static/media/kasone.jpg": "/matte/static/media/kasone.2edafb81.jpg",
@@ -108,8 +111,8 @@
   "entrypoints": [
     "static/js/runtime-main.535cb61f.js",
     "static/css/2.183800ca.chunk.css",
-    "static/js/2.6dbeaa1e.chunk.js",
-    "static/css/main.6e996652.chunk.css",
-    "static/js/main.21c400a5.chunk.js"
+    "static/js/2.7bdb345b.chunk.js",
+    "static/css/main.2939b956.chunk.css",
+    "static/js/main.8b7551e3.chunk.js"
   ]
 }
