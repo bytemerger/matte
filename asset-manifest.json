@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/matte/static/css/main.2939b956.chunk.css",
-    "main.js": "/matte/static/js/main.8b7551e3.chunk.js",
-    "main.js.map": "/matte/static/js/main.8b7551e3.chunk.js.map",
+    "main.css": "/matte/static/css/main.92af11dc.chunk.css",
+    "main.js": "/matte/static/js/main.211511b7.chunk.js",
+    "main.js.map": "/matte/static/js/main.211511b7.chunk.js.map",
     "runtime-main.js": "/matte/static/js/runtime-main.535cb61f.js",
     "runtime-main.js.map": "/matte/static/js/runtime-main.535cb61f.js.map",
     "static/css/2.183800ca.chunk.css": "/matte/static/css/2.183800ca.chunk.css",
-    "static/js/2.7bdb345b.chunk.js": "/matte/static/js/2.7bdb345b.chunk.js",
-    "static/js/2.7bdb345b.chunk.js.map": "/matte/static/js/2.7bdb345b.chunk.js.map",
+    "static/js/2.d1f66df6.chunk.js": "/matte/static/js/2.d1f66df6.chunk.js",
+    "static/js/2.d1f66df6.chunk.js.map": "/matte/static/js/2.d1f66df6.chunk.js.map",
     "index.html": "/matte/index.html",
-    "precache-manifest.a8b5aa28e3c33abb75a6f6e951a569d7.js": "/matte/precache-manifest.a8b5aa28e3c33abb75a6f6e951a569d7.js",
+    "precache-manifest.74c3312286f3f95247c6b39eecfe5139.js": "/matte/precache-manifest.74c3312286f3f95247c6b39eecfe5139.js",
     "service-worker.js": "/matte/service-worker.js",
     "static/css/2.183800ca.chunk.css.map": "/matte/static/css/2.183800ca.chunk.css.map",
-    "static/css/main.2939b956.chunk.css.map": "/matte/static/css/main.2939b956.chunk.css.map",
-    "static/js/2.7bdb345b.chunk.js.LICENSE.txt": "/matte/static/js/2.7bdb345b.chunk.js.LICENSE.txt",
+    "static/css/main.92af11dc.chunk.css.map": "/matte/static/css/main.92af11dc.chunk.css.map",
+    "static/js/2.d1f66df6.chunk.js.LICENSE.txt": "/matte/static/js/2.d1f66df6.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/matte/static/media/1.5fec87bc.jpg",
     "static/media/10nants iMac.jpg": "/matte/static/media/10nants iMac.19f93e86.jpg",
     "static/media/10nants iPhone.jpg": "/matte/static/media/10nants iPhone.79ab3424.jpg",
@@ -35,6 +35,7 @@
     "static/media/Background1.jpg": "/matte/static/media/Background1.eec9120d.jpg",
     "static/media/Circle Bracket Blue.svg": "/matte/static/media/Circle Bracket Blue.ff20dd14.svg",
     "static/media/Circle bracket.svg": "/matte/static/media/Circle bracket.98abaa0d.svg",
+    "static/media/Coat-of-arms-of-Nigeria-01.svg": "/matte/static/media/Coat-of-arms-of-Nigeria-01.b2a9683a.svg",
     "static/media/Danny story.png": "/matte/static/media/Danny story.eac7c4ae.png",
     "static/media/Express Yourself.svg": "/matte/static/media/Express Yourself.c8e3c14f.svg",
     "static/media/Fine Boy with tablet.jpg": "/matte/static/media/Fine Boy with tablet.17152bb0.jpg",
@@ -43,6 +44,7 @@
     "static/media/Identity BackG.png": "/matte/static/media/Identity BackG.c3df914c.png",
     "static/media/Identity WORK.png": "/matte/static/media/Identity WORK.c9aa7cc2.png",
     "static/media/Identity.png": "/matte/static/media/Identity.49e0a6bd.png",
+    "static/media/Iphone 11 pro.jpg": "/matte/static/media/Iphone 11 pro.df5ea9e5.jpg",
     "static/media/Kasone App.jpg": "/matte/static/media/Kasone App.cb757f7e.jpg",
     "static/media/Logo Coloured.svg": "/matte/static/media/Logo Coloured.7320bf6a.svg",
     "static/media/Logo design SVG.svg": "/matte/static/media/Logo design SVG.24fdb11a.svg",
@@ -105,14 +107,15 @@
     "static/media/pawel-czerwinski-KWpm9MmEo2s-unsplash.jpg": "/matte/static/media/pawel-czerwinski-KWpm9MmEo2s-unsplash.ea5f388f.jpg",
     "static/media/picture 2.jpg": "/matte/static/media/picture 2.540054e2.jpg",
     "static/media/styles.css": "/matte/static/media/revicons.2feb69cc.eot",
+    "static/media/s20 ultra.jpg": "/matte/static/media/s20 ultra.19cd037b.jpg",
     "static/media/subscribe SVG.svg": "/matte/static/media/subscribe SVG.3ef26cfb.svg",
     "static/media/web.png": "/matte/static/media/web.210473d0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.535cb61f.js",
     "static/css/2.183800ca.chunk.css",
-    "static/js/2.7bdb345b.chunk.js",
-    "static/css/main.2939b956.chunk.css",
-    "static/js/main.8b7551e3.chunk.js"
+    "static/js/2.d1f66df6.chunk.js",
+    "static/css/main.92af11dc.chunk.css",
+    "static/js/main.211511b7.chunk.js"
   ]
 }

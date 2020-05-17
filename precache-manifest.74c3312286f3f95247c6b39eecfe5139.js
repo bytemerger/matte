@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f33012e1d1319c39ac7bbf81bdc6af8e",
+    "revision": "b9a86849bd0150040003d7c11d8775ba",
     "url": "/matte/index.html"
   },
   {
-    "revision": "5c0f6d30fd09a737b06f",
+    "revision": "fe6dc4d9036a2243be6b",
     "url": "/matte/static/css/2.183800ca.chunk.css"
   },
   {
-    "revision": "45d78b6766508e89bbe7",
-    "url": "/matte/static/css/main.2939b956.chunk.css"
+    "revision": "f21bf46b3b638d942951",
+    "url": "/matte/static/css/main.92af11dc.chunk.css"
   },
   {
-    "revision": "5c0f6d30fd09a737b06f",
-    "url": "/matte/static/js/2.7bdb345b.chunk.js"
+    "revision": "fe6dc4d9036a2243be6b",
+    "url": "/matte/static/js/2.d1f66df6.chunk.js"
   },
   {
     "revision": "5ce75d19fecb6d398b69762f036df133",
-    "url": "/matte/static/js/2.7bdb345b.chunk.js.LICENSE.txt"
+    "url": "/matte/static/js/2.d1f66df6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "45d78b6766508e89bbe7",
-    "url": "/matte/static/js/main.8b7551e3.chunk.js"
+    "revision": "f21bf46b3b638d942951",
+    "url": "/matte/static/js/main.211511b7.chunk.js"
   },
   {
     "revision": "0a5a5ca91a384307e59b",
@@ -112,6 +112,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matte/static/media/Circle bracket.98abaa0d.svg"
   },
   {
+    "revision": "b2a9683a2eac14cf226e038780cebee9",
+    "url": "/matte/static/media/Coat-of-arms-of-Nigeria-01.b2a9683a.svg"
+  },
+  {
     "revision": "eac7c4ae7bc36094c5a414c44538ee05",
     "url": "/matte/static/media/Danny story.eac7c4ae.png"
   },
@@ -142,6 +146,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "49e0a6bd5598acd977f3acd95ba74dcd",
     "url": "/matte/static/media/Identity.49e0a6bd.png"
+  },
+  {
+    "revision": "df5ea9e506f40ef3461613dc5a4e7985",
+    "url": "/matte/static/media/Iphone 11 pro.df5ea9e5.jpg"
   },
   {
     "revision": "cb757f7e9f8b93d1ba97693b60bc133e",
@@ -406,6 +414,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2feb69ccb596730c72920c6ba3e37ef8",
     "url": "/matte/static/media/revicons.2feb69cc.eot"
+  },
+  {
+    "revision": "19cd037bf7a004361119b348cb18daed",
+    "url": "/matte/static/media/s20 ultra.19cd037b.jpg"
   },
   {
     "revision": "3ef26cfb5ec924f4be393305a3935e61",
