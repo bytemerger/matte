@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/matte/static/css/main.92af11dc.chunk.css",
-    "main.js": "/matte/static/js/main.211511b7.chunk.js",
-    "main.js.map": "/matte/static/js/main.211511b7.chunk.js.map",
+    "main.js": "/matte/static/js/main.40f207b3.chunk.js",
+    "main.js.map": "/matte/static/js/main.40f207b3.chunk.js.map",
     "runtime-main.js": "/matte/static/js/runtime-main.535cb61f.js",
     "runtime-main.js.map": "/matte/static/js/runtime-main.535cb61f.js.map",
     "static/css/2.183800ca.chunk.css": "/matte/static/css/2.183800ca.chunk.css",
-    "static/js/2.d1f66df6.chunk.js": "/matte/static/js/2.d1f66df6.chunk.js",
-    "static/js/2.d1f66df6.chunk.js.map": "/matte/static/js/2.d1f66df6.chunk.js.map",
+    "static/js/2.a3e22d8e.chunk.js": "/matte/static/js/2.a3e22d8e.chunk.js",
+    "static/js/2.a3e22d8e.chunk.js.map": "/matte/static/js/2.a3e22d8e.chunk.js.map",
     "index.html": "/matte/index.html",
-    "precache-manifest.74c3312286f3f95247c6b39eecfe5139.js": "/matte/precache-manifest.74c3312286f3f95247c6b39eecfe5139.js",
+    "precache-manifest.87e18de21c80867e84a10996fb453456.js": "/matte/precache-manifest.87e18de21c80867e84a10996fb453456.js",
     "service-worker.js": "/matte/service-worker.js",
     "static/css/2.183800ca.chunk.css.map": "/matte/static/css/2.183800ca.chunk.css.map",
     "static/css/main.92af11dc.chunk.css.map": "/matte/static/css/main.92af11dc.chunk.css.map",
-    "static/js/2.d1f66df6.chunk.js.LICENSE.txt": "/matte/static/js/2.d1f66df6.chunk.js.LICENSE.txt",
+    "static/js/2.a3e22d8e.chunk.js.LICENSE.txt": "/matte/static/js/2.a3e22d8e.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/matte/static/media/1.5fec87bc.jpg",
     "static/media/10nants iMac.jpg": "/matte/static/media/10nants iMac.19f93e86.jpg",
     "static/media/10nants iPhone.jpg": "/matte/static/media/10nants iPhone.79ab3424.jpg",
@@ -37,6 +37,7 @@
     "static/media/Circle bracket.svg": "/matte/static/media/Circle bracket.98abaa0d.svg",
     "static/media/Coat-of-arms-of-Nigeria-01.svg": "/matte/static/media/Coat-of-arms-of-Nigeria-01.b2a9683a.svg",
     "static/media/Danny story.png": "/matte/static/media/Danny story.eac7c4ae.png",
+    "static/media/Doctor and iMac1.jpg": "/matte/static/media/Doctor and iMac1.35697405.jpg",
     "static/media/Express Yourself.svg": "/matte/static/media/Express Yourself.c8e3c14f.svg",
     "static/media/Fine Boy with tablet.jpg": "/matte/static/media/Fine Boy with tablet.17152bb0.jpg",
     "static/media/Founder and CEO.png": "/matte/static/media/Founder and CEO.03f40adb.png",
@@ -98,6 +99,8 @@
     "static/media/dare to be different.svg": "/matte/static/media/dare to be different.3a973954.svg",
     "static/media/globe_vector-02.png": "/matte/static/media/globe_vector-02.5c87c60d.png",
     "static/media/house.png": "/matte/static/media/house.59044318.png",
+    "static/media/iMac2.jpg": "/matte/static/media/iMac2.bf0adcbd.jpg",
+    "static/media/iMac3.jpg": "/matte/static/media/iMac3.7d2eef28.jpg",
     "static/media/img_0.png": "/matte/static/media/img_0.f09a9812.png",
     "static/media/iphone-xs-max-mockup-scene@2x.jpg": "/matte/static/media/iphone-xs-max-mockup-scene@2x.3f696e77.jpg",
     "static/media/kasone Tag.jpg": "/matte/static/media/kasone Tag.27cd26af.jpg",
@@ -114,8 +117,8 @@
   "entrypoints": [
     "static/js/runtime-main.535cb61f.js",
     "static/css/2.183800ca.chunk.css",
-    "static/js/2.d1f66df6.chunk.js",
+    "static/js/2.a3e22d8e.chunk.js",
     "static/css/main.92af11dc.chunk.css",
-    "static/js/main.211511b7.chunk.js"
+    "static/js/main.40f207b3.chunk.js"
   ]
 }
