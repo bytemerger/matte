@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/matte/static/css/main.92af11dc.chunk.css",
-    "main.js": "/matte/static/js/main.40f207b3.chunk.js",
-    "main.js.map": "/matte/static/js/main.40f207b3.chunk.js.map",
+    "main.css": "/matte/static/css/main.c7189cbf.chunk.css",
+    "main.js": "/matte/static/js/main.9fa31e15.chunk.js",
+    "main.js.map": "/matte/static/js/main.9fa31e15.chunk.js.map",
     "runtime-main.js": "/matte/static/js/runtime-main.535cb61f.js",
     "runtime-main.js.map": "/matte/static/js/runtime-main.535cb61f.js.map",
     "static/css/2.183800ca.chunk.css": "/matte/static/css/2.183800ca.chunk.css",
-    "static/js/2.a3e22d8e.chunk.js": "/matte/static/js/2.a3e22d8e.chunk.js",
-    "static/js/2.a3e22d8e.chunk.js.map": "/matte/static/js/2.a3e22d8e.chunk.js.map",
+    "static/js/2.12c0d0e6.chunk.js": "/matte/static/js/2.12c0d0e6.chunk.js",
+    "static/js/2.12c0d0e6.chunk.js.map": "/matte/static/js/2.12c0d0e6.chunk.js.map",
     "index.html": "/matte/index.html",
-    "precache-manifest.87e18de21c80867e84a10996fb453456.js": "/matte/precache-manifest.87e18de21c80867e84a10996fb453456.js",
+    "precache-manifest.a5bd5527ade8e7c826f4ffec0bdd5678.js": "/matte/precache-manifest.a5bd5527ade8e7c826f4ffec0bdd5678.js",
     "service-worker.js": "/matte/service-worker.js",
     "static/css/2.183800ca.chunk.css.map": "/matte/static/css/2.183800ca.chunk.css.map",
-    "static/css/main.92af11dc.chunk.css.map": "/matte/static/css/main.92af11dc.chunk.css.map",
-    "static/js/2.a3e22d8e.chunk.js.LICENSE.txt": "/matte/static/js/2.a3e22d8e.chunk.js.LICENSE.txt",
+    "static/css/main.c7189cbf.chunk.css.map": "/matte/static/css/main.c7189cbf.chunk.css.map",
+    "static/js/2.12c0d0e6.chunk.js.LICENSE.txt": "/matte/static/js/2.12c0d0e6.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/matte/static/media/1.5fec87bc.jpg",
     "static/media/10nants iMac.jpg": "/matte/static/media/10nants iMac.19f93e86.jpg",
     "static/media/10nants iPhone.jpg": "/matte/static/media/10nants iPhone.79ab3424.jpg",
@@ -45,6 +45,7 @@
     "static/media/Identity BackG.png": "/matte/static/media/Identity BackG.c3df914c.png",
     "static/media/Identity WORK.png": "/matte/static/media/Identity WORK.c9aa7cc2.png",
     "static/media/Identity.png": "/matte/static/media/Identity.49e0a6bd.png",
+    "static/media/Imacs.jpg": "/matte/static/media/Imacs.1159df84.jpg",
     "static/media/Iphone 11 pro.jpg": "/matte/static/media/Iphone 11 pro.df5ea9e5.jpg",
     "static/media/Kasone App.jpg": "/matte/static/media/Kasone App.cb757f7e.jpg",
     "static/media/Logo Coloured.svg": "/matte/static/media/Logo Coloured.7320bf6a.svg",
@@ -77,6 +78,7 @@
     "static/media/Spex-Shots.jpg": "/matte/static/media/Spex-Shots.3da7fd90.jpg",
     "static/media/Spexshots.svg": "/matte/static/media/Spexshots.2d0307f9.svg",
     "static/media/Story SVG.svg": "/matte/static/media/Story SVG.216b6f89.svg",
+    "static/media/Study centre.jpg": "/matte/static/media/Study centre.40cac3a4.jpg",
     "static/media/TOpher logo.svg": "/matte/static/media/TOpher logo.19bb7958.svg",
     "static/media/Topher App.jpg": "/matte/static/media/Topher App.18ac4235.jpg",
     "static/media/Topher boxes.jpg": "/matte/static/media/Topher boxes.00baf8b1.jpg",
@@ -117,8 +119,8 @@
   "entrypoints": [
     "static/js/runtime-main.535cb61f.js",
     "static/css/2.183800ca.chunk.css",
-    "static/js/2.a3e22d8e.chunk.js",
-    "static/css/main.92af11dc.chunk.css",
-    "static/js/main.40f207b3.chunk.js"
+    "static/js/2.12c0d0e6.chunk.js",
+    "static/css/main.c7189cbf.chunk.css",
+    "static/js/main.9fa31e15.chunk.js"
   ]
 }
