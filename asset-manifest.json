@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/matte/static/css/main.621791aa.chunk.css",
+    "main.css": "/matte/static/css/main.3c5d6897.chunk.css",
     "main.js": "/matte/static/js/main.61b42426.chunk.js",
     "main.js.map": "/matte/static/js/main.61b42426.chunk.js.map",
     "runtime-main.js": "/matte/static/js/runtime-main.a6c48024.js",
@@ -9,10 +9,10 @@
     "static/js/2.b266ef51.chunk.js": "/matte/static/js/2.b266ef51.chunk.js",
     "static/js/2.b266ef51.chunk.js.map": "/matte/static/js/2.b266ef51.chunk.js.map",
     "index.html": "/matte/index.html",
-    "precache-manifest.bb1b6af357e0a5ade64e94517607d064.js": "/matte/precache-manifest.bb1b6af357e0a5ade64e94517607d064.js",
+    "precache-manifest.f36cbcc3adb29dd1db5cfc036c3bb093.js": "/matte/precache-manifest.f36cbcc3adb29dd1db5cfc036c3bb093.js",
     "service-worker.js": "/matte/service-worker.js",
     "static/css/2.183800ca.chunk.css.map": "/matte/static/css/2.183800ca.chunk.css.map",
-    "static/css/main.621791aa.chunk.css.map": "/matte/static/css/main.621791aa.chunk.css.map",
+    "static/css/main.3c5d6897.chunk.css.map": "/matte/static/css/main.3c5d6897.chunk.css.map",
     "static/js/2.b266ef51.chunk.js.LICENSE.txt": "/matte/static/js/2.b266ef51.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/matte/static/media/1.5fec87bc.jpg",
     "static/media/10nants iMac.jpg": "/matte/static/media/10nants iMac.19f93e86.jpg",
@@ -120,7 +120,7 @@
     "static/js/runtime-main.a6c48024.js",
     "static/css/2.183800ca.chunk.css",
     "static/js/2.b266ef51.chunk.js",
-    "static/css/main.621791aa.chunk.css",
+    "static/css/main.3c5d6897.chunk.css",
     "static/js/main.61b42426.chunk.js"
   ]
 }
